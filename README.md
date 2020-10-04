@@ -11,9 +11,15 @@ I'm Ahmed Alaa, I'm a Frontend Engineer.
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
 
-![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
 ![React](https://img.shields.io/badge/-React-%23282C34?style=flat-square&logo=react)
 ![Vue](https://img.shields.io/badge/-Vue-%23282C34?style=flat-square&logo=vue.js)
+![Redux](https://img.shields.io/badge/-Redux-%23282C34?style=flat-square&logo=redux.js)
+
+
+## Familiar with
+![OOP](https://img.shields.io/badge/-OOP-black?style=flat-square&logo=OOP)
+![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
+![Denojs](https://img.shields.io/badge/-Denojs-black?style=flat-square&logo=Deno.js)
 
 ---
 
