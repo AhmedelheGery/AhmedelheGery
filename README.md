@@ -31,14 +31,12 @@ I am a frontend engineer 👨‍💻. Interested in making life easier by creati
 ![Denojs](https://img.shields.io/badge/-Denojs-black?style=flat-square&logo=Deno.js)
 
 ---
-
-<p>
- <i>Let's connect and chat! Find me on the web...</i>
+### Let's connect and chat! Find me on the web...
  
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/ahmed-elhegery/)
-[![Gmail Badge](https://img.shields.io/badge/-AhmedHegery-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:v.ahmed.3laa.2020@gmail.com)](mailto:v.ahmed.3laa.2020@gmail.com)
-[![Codepen Badge](https://img.shields.io/badge/-@AhmedHegery-black?style=flat&logo=Codepen&logoColor=white&link=https://codepen.io/AhmedHegery/)](https://codepen.io/AhmedHegery/) 
-[![DEV Badge](https://img.shields.io/badge/-ahmedelhegery-0A0A0A?style=flat&logo=dev.to&logoColor=white)](https://dev.to/ahmedelhegery)
+[<img src="https://img.shields.io/badge/gmail-orange?&style=for-the-badge&logo=gmail&logoColor=white">](mailto:v.ahmed.3laa.2020@gmail.com)
+[<img src="https://img.shields.io/badge/codepen-grey.svg?&style=for-the-badge&logo=codepen&logoColor=white">](https://codepen.io/AhmedHegery/)
+[<img src="https://img.shields.io/badge/dev-black.svg?&style=for-the-badge&logo=dev&logoColor=white">](https://dev.to/ahmedelhegery)
 [<img src="https://img.shields.io/badge/medium-grey.svg?&style=for-the-badge&logo=medium&logoColor=white">](https://medium.com/@ahmed.3laa.2020)
 [<img src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white">](https://www.facebook.com/AhmedelHegery)
 
