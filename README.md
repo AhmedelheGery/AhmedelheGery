@@ -39,6 +39,7 @@ I am a frontend engineer 👨‍💻. Interested in making life easier by creati
 [![Gmail Badge](https://img.shields.io/badge/-AhmedHegery-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:v.ahmed.3laa.2020@gmail.com)](mailto:v.ahmed.3laa.2020@gmail.com)
 [![Codepen Badge](https://img.shields.io/badge/-@AhmedHegery-black?style=flat&logo=Codepen&logoColor=white&link=https://codepen.io/AhmedHegery/)](https://codepen.io/AhmedHegery/) 
 [![DEV Badge](https://img.shields.io/badge/-ahmedelhegery-0A0A0A?style=flat&logo=dev.to&logoColor=white)](https://dev.to/ahmedelhegery)
-[![Medium Badge](https://img.shields.io/badge/-@AhmedHegery-000000?style=flat&labelColor=000000&logo=Medium&link=https://medium.com/@ahmed.3laa.2020)](https://medium.com/@ahmed.3laa.2020) 
+[![Medium Badge](https://img.shields.io/badge/-@AhmedHegery-000000?style=flat&labelColor=000000&logo=Medium&link=https://medium.com/@ahmed.3laa.2020)](https://medium.com/@ahmed.3laa.2020)
+[![Facebook Badge](https://img.shields.io/badge/-@AhmedHegery-blue?style=flat&labelColor=vlue&logo=Facebook&link=https://www.facebook.com/AhmedelHegery)](https://www.facebook.com/AhmedelHegery) 
 
 
