@@ -1,16 +1,12 @@
 <h4> Hey there! <img src="https://raw.githubusercontent.com/verma-anushka/verma-anushka/master/gifs/wave.gif" width="30px"></h4>
 
-I'm Ahmed Alaa, I'm a Frontend Engineer.
-
-I am a frontend engineer and have experience in working in many startups as technical Lead and Full stack developer👨‍💻. Interested in making life easier by creating utility tools. Fascinated about space.
-
-
-- 🔭 I’m currently working on ReactJS, Nodejs, appscripts and flutter.
-- 🌱 I’m currently learning competitive coding.
-- ⚡  Available for Freelance projects/internship opportunities.
-- 💬 Read out my articles on [Dev](https://dev.to/ahmedelhegery) && [Medium](https://medium.com/@ahmed.3laa.2020)
+I am a frontend engineer 👨‍💻. Interested in making life easier by creating utility tools. Fascinated about gaming.
 
 <img align="right" width="40%" src="https://res.cloudinary.com/hegeryfiles/image/upload/v1603786815/undraw_Freelancer_re_irh4.png" />
+
+- 🌱 I’m currently learning about devops.
+- ⚡  Available for Freelance projects and part time opportunities.
+- 💬 Read out my articles on [Dev](https://dev.to/ahmedelhegery) && [Medium](https://medium.com/@ahmed.3laa.2020)
 
 ---
 
@@ -36,7 +32,7 @@ I am a frontend engineer and have experience in working in many startups as tech
 
 ---
 
-<p align="center">
+<p>
  <i>Let's connect and chat! Find me on the web...</i>
  
 [![Linkedin Badge](https://img.shields.io/badge/-AhmedHegery-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ahmed-elhegery/)](https://www.linkedin.com/in/ahmed-elhegery/) 
