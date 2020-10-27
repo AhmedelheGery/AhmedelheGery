@@ -2,7 +2,17 @@
 
 I'm Ahmed Alaa, I'm a Frontend Engineer.
 
+I am a frontend engineer and have experience in working in many startups as technical Lead and Full stack developer👨‍💻. Interested in making life easier by creating utility tools. Fascinated about space.
+
+
+- 🔭 I’m currently working on ReactJS, Nodejs, appscripts and flutter.
+- 🌱 I’m currently learning competitive coding.
+- ⚡  Available for Freelance projects/internship opportunities.
+- 💬 Read out my articles on [Dev](https://dev.to/ahmedelhegery) && [Medium](https://medium.com/@ahmed.3laa.2020)
+
 ---
+
+<img align="right" width="40%" src="https://res.cloudinary.com/hegeryfiles/image/upload/v1603786815/undraw_Freelancer_re_irh4.png" />
 
 ## My skills
 ![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
@@ -12,9 +22,12 @@ I'm Ahmed Alaa, I'm a Frontend Engineer.
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
 
 ![React](https://img.shields.io/badge/-React-%23282C34?style=flat-square&logo=react)
-![Vue](https://img.shields.io/badge/-Vue-%23282C34?style=flat-square&logo=vue.js)
 ![Redux](https://img.shields.io/badge/-Redux-%23282C34?style=flat-square&logo=redux.js)
 
+![Vue](https://img.shields.io/badge/-Vue-%23282C34?style=flat-square&logo=vue.js)
+![Vuex](https://img.shields.io/badge/-Vuex-%23282C34?style=flat-square&logo=vue.js)
+
+---
 
 ## Familiar with
 ![OOP](https://img.shields.io/badge/-OOP-black?style=flat-square&logo=OOP)
@@ -24,10 +37,16 @@ I'm Ahmed Alaa, I'm a Frontend Engineer.
 ---
 
 <p align="center">
-  <i>Let's connect and chat! Find me on the web...</i>
-   
-   [![Linkedin Badge](https://img.shields.io/badge/-AhmedHegery-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ahmed-elhegery/)](https://www.linkedin.com/in/ahmed-elhegery/) 
-   [![Medium Badge](https://img.shields.io/badge/-@AhmedHegery-000000?style=flat&labelColor=000000&logo=Medium&link=https://medium.com/@ahmed.3laa.2020)](https://medium.com/@v.anushka786) 
-   [![Gmail Badge](https://img.shields.io/badge/-AhmedHegery-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:v.ahmed.3laa.2020@gmail.com)](mailto:v.ahmed.3laa.2020@gmail.com)
-   [![Codepen Badge](https://img.shields.io/badge/-@AhmedHegery-black?style=flat&logo=Codepen&logoColor=white&link=https://codepen.io/AhmedHegery/)](https://codepen.io/AhmedHegery/) 
+ <i>Let's connect and chat! Find me on the web...</i>
+ 
+[![Linkedin Badge](https://img.shields.io/badge/-AhmedHegery-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ahmed-elhegery/)](https://www.linkedin.com/in/ahmed-elhegery/) 
+
+[![Gmail Badge](https://img.shields.io/badge/-AhmedHegery-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:v.ahmed.3laa.2020@gmail.com)](mailto:v.ahmed.3laa.2020@gmail.com)
+
+[![Codepen Badge](https://img.shields.io/badge/-@AhmedHegery-black?style=flat&logo=Codepen&logoColor=white&link=https://codepen.io/AhmedHegery/)](https://codepen.io/AhmedHegery/) 
+
+[![DEV Badge](https://img.shields.io/badge/-ahmedelhegery-0A0A0A?style=flat&logo=dev.to&logoColor=white)](https://dev.to/ahmedelhegery)
+
+[![Medium Badge](https://img.shields.io/badge/-@AhmedHegery-000000?style=flat&labelColor=000000&logo=Medium&link=https://medium.com/@ahmed.3laa.2020)](https://medium.com/@ahmed.3laa.2020) 
+
 
