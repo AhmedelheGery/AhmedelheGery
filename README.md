@@ -10,9 +10,9 @@ I am a frontend engineer and have experience in working in many startups as tech
 - ⚡  Available for Freelance projects/internship opportunities.
 - 💬 Read out my articles on [Dev](https://dev.to/ahmedelhegery) && [Medium](https://medium.com/@ahmed.3laa.2020)
 
----
-
 <img align="right" width="40%" src="https://res.cloudinary.com/hegeryfiles/image/upload/v1603786815/undraw_Freelancer_re_irh4.png" />
+
+---
 
 ## My skills
 ![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
@@ -40,13 +40,9 @@ I am a frontend engineer and have experience in working in many startups as tech
  <i>Let's connect and chat! Find me on the web...</i>
  
 [![Linkedin Badge](https://img.shields.io/badge/-AhmedHegery-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ahmed-elhegery/)](https://www.linkedin.com/in/ahmed-elhegery/) 
-
 [![Gmail Badge](https://img.shields.io/badge/-AhmedHegery-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:v.ahmed.3laa.2020@gmail.com)](mailto:v.ahmed.3laa.2020@gmail.com)
-
 [![Codepen Badge](https://img.shields.io/badge/-@AhmedHegery-black?style=flat&logo=Codepen&logoColor=white&link=https://codepen.io/AhmedHegery/)](https://codepen.io/AhmedHegery/) 
-
 [![DEV Badge](https://img.shields.io/badge/-ahmedelhegery-0A0A0A?style=flat&logo=dev.to&logoColor=white)](https://dev.to/ahmedelhegery)
-
 [![Medium Badge](https://img.shields.io/badge/-@AhmedHegery-000000?style=flat&labelColor=000000&logo=Medium&link=https://medium.com/@ahmed.3laa.2020)](https://medium.com/@ahmed.3laa.2020) 
 
 
